@@ -1,0 +1,4 @@
+while do true
+wait()
+print("tutorial")
+end
